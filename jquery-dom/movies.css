@@ -1,0 +1,23 @@
+.page-heading {
+    font-size: 2em;
+    text-align: center;
+}
+
+.input-form {
+
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    border: 10px;
+
+}
+
+.submit-btn {
+    border-radius: 8px;
+
+    border: 1px solid #000;
+    padding: 10px 20px;
+    background: rgb(98, 98, 236);
+    font-size: 2em;
+    cursor: pointer;
+}
